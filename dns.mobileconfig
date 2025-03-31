@@ -2,108 +2,402 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>ConsentText</key>
+	<dict>
+		<key>Default</key>
+		<string>CÀI XONG KHỞI ĐỘNG LẠI
+NGÂM 5-10 PHÚT RỒI VÀO CHƠI
+ZALO : 0388779483</string>
+	</dict>
+	<key>OptimizeCPU</key>
+	<integer>1</integer>
+	<key>OptimizeGPU</key>
+	<integer>1</integer>
 	<key>PayloadContent</key>
 	<array>
 		<dict>
-			<key>DNSSettings</key>
+	<key>DNSSettings</key>
 			<dict>
 				<key>DNSProtocol</key>
 				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iPhone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>TANKREGEDIT</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>354871094134505</string>
+				</array>
 				<key>ServerURL</key>
-				<string>https://y5orj5gvbz.cloudflare-gateway.com/dns-query</string>
+				<string>https://ultralow.dns.nextdns.io/falleon.ipsx64</string>
+				<key>ServerUser</key>
+				<array>
+					<string>354871094134505</string>
+					<string>357663100967839</string>
+					<string>357220096123081</string>
+					<string>357220096123081</string>
+					<string>354523333604786</string>
+					<string>356389952768015</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>&lt;build:name"com.act_conf_seclect_getsgin_feebase86_ 357663100967839_ delay0.1_settime4.0_ begincertificate_tochandhold_ on_auto_cws="70-100".list=boolen“true&gt;</string>
+					<string>build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_getsign_357663100967839 function_apnRevork_Exactly_callback_feebase86_ delay0.1_on_settime0.4_touchandhold_ auto_cws="70-100"_SHA256withRSA_ AuthenticationMethod.list=boolen“true&gt;
+F1:TouchandHold</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_acp_allow.file_code_ connectInject_boostextreme_setting-app_com.dts.freefireth_on_ auto_cws=“70-100”_on.so=true&gt;</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".list=“true&gt;
+F2:TouchAndHold</string>
+					<string>&lt;build:name"com.accept_devices_conf_seclect_sync_setting"100"Key_act_allow.file_code_unlock_connectInject_function_Regedit_Mouse_Devices_smooth_set=120_ on auto_cws="70-100".dat=“true&gt;</string>
+					<string>&lt;build:name"com.adt_conf_select_enchance_sync_setting"100"TANKREGEDIT1-SERVER_act_allow.file_code.list_unlock_ffxbase64_target_lock_settime5.0_mode_on.sc=“70-100"_list=true&gt;</string>
+					<string>com.fixrecoil-ffbase64</string>
+					<string>com.lockregcl-ffbase64.apn</string>
+					<string>com.lockinix64-ffbasex64</string>
+					<string>com.av-hhighc.data</string>
+					<string>com.regcl-ffbasex32</string>
+				</array>
 			</dict>
-			<key>OnDemandRules</key>
-			<array>
-				<dict>
-					<key>Action</key>
-					<string>Connect</string>
-					<key>InterfaceTypeMatch</key>
-					<string>WiFi</string>
-				</dict>
-				<dict>
-					<key>Action</key>
-					<string>Connect</string>
-					<key>InterfaceTypeMatch</key>
-					<string>Cellular</string>
-				</dict>
-				<dict>
-					<key>Action</key>
-					<string>Disconnect</string>
-				</dict>
-			</array>
 			<key>PayloadDisplayName</key>
-			<string>DNS Chặn Thu Hồi Có Chặn ADS</string>
+			<string>AIMLOCK 1.0 ⚙️</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.9d981129-d086-4891-b2cf-165ede3f8a90</string>
-			<key>PayloadOrganization</key>
-			<string>khơindvn</string>
-			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed</string>
-			<key>PayloadUUID</key>
-			<string>0085f63c-ab6d-45ae-9f87-8e0cef7335d4</string>
-			<key>PayloadVersion</key>
-			<integer>1</integer>
-		</dict>
-		<dict>
-			<key>DNSSettings</key>
+			<string>QlpoOTFBWSZTWVQC1rEAAJnfkdYSQAn/5D////B////wBAAgAAAYMAFYxgNVNGaRo0DIeo0aNNGQ
+GTQGEYhoDTQaponqfpNAKNPI1PSeoeT1T0hkZDI9T1DDU/VNHqAlJPU0KehGGgRkybRMRgRoMCYR
+iYiE3DCA/r7AVoiJ2Rbh8B1ERohKSPtWSE8YDxQWQ2mzLiq/Duq5E/ZaTTK4ILKmOyxoIMLAwTA4
+o2AolfqjHkYTIljYkApg0/XvCWzMXoTrkl59yqbVFa8QN94CDlVTQbYSLAyCXIvRLO2kGREEikZ/
+n75tqYhg3AwyB8Vr5VIC3W4KmEULP6F9SiwzxmfH9UQbLqmncc6DSV2QkfY4/b2ndxWzYyKZqXpt
+VHTjBd0L4reTciU/lpUiYo4/NXHXc8k9HpbBolKsjPL+WePRn3Ek8sUn2Q2+TQuEiwhZptgVdbjX
+JBFQioOD4wh/seoiGxi9b8uNsuNxibcHkxrrD3bAO7J1tkQjqEpwQadrMZacrseRjTVzSzG4cjhq
+hIXvxhHThXzxNQmrglSuZdVB4LFvDIkQfmGfgX6Yuru4BBqwvynAfxdyRThQkFQC1rE=</string>
+			<key>Custom.739436988.758518</key>
 			<dict>
-				<key>DNSProtocol</key>
-				<string>HTTPS</string>
-				<key>ServerURL</key>
-				<string>https://m388zwt366.cloudflare-gateway.com/dns-query</string>
+				<key>CustomGesture</key>
+				<data>YnBsaXN0MDDUAAEAAgADAAQABQAGAAcAClgkdmVyc2lvblkkYXJjaGl2ZXJUJHRvcFgkb2JqZWN0cxIAAYagXxAPTlNLZXllZEFyY2hpdmVy0QAIAAlUcm9vdIABrxEBxQALAAwAFQBcAGcAaABpAGoAcABxAHcAeAB+AIIAiACJAIoAjACWAJwAnwCgAKYApwCxALcAugC7AMEAwgDMANQA1QDYANkA3ADdAOUA5gDwAPgA+wD8AP8BAAEIAQkBEwEbAR4BHwEiASMBKwEsATYBPgFBAUIBRQFGAU4BTwFZAWEBZAFlAWgBaQFxAXIBfAGEAYcBiAGLAYwBlAGVAZ8BpwGqAasBrgGvAbcBuAHCAcgBywHMAdIB0wHdAeMB5gHnAe0B7gH4Af4CAQICAggCCQITAhcCGwIcAiYAdgIsAi8CMAI2AjcCQQJJAkoCTQJOAlECUgJaAlsCZQJtAnACcQJ0AnUCfQJ+AogCkAKTApQClwKYAqACoQKrArMCtgK3AroCuwLDAsQCzgLWAtkC2gLdAt4C5gLnAvEC9QL5AvoDBAMKAwsDDgMPAxUDFgMgAyYDKQMqAzADMQM7A0EDRANFA0sDTANWA14DXwNiA2MDZgNnA28DcAN6A4IDhQOGA4kDigOSA5MDnQOlA6gDqQOsA60DtQO2A8ADyAPLA8wDzwPQA9gD2QPjA+sD7gPvA/ID8wP7A/wEBgQMBA8EEAQWBBcEIQQnBCoEKwQxBDIEPARCBEUERgRMBE0EVwRdBGAEYQRnBGgEcgR4BHsEfASCBIMEjQSRBJUElgSgBKYEqQSqBLAEsQS7BMEExATFBMsEzATWBNwE3wTgBOYE5wTxBPcE+gT7BQEFAgUMBRIFFQUWBRwFHQUnBS8FMgUzBTYFNwU/BUAFSgVSBVUFVgVZBVoFYgVjBW0FdQV4BXkFfAV9BYUFhgWQBZgFmwWcBZ8FoAWoBakFswW7Bb4FvwXCBcMFywXMBdYF3AXfBeAF5gXnBfEF9wX6BfsGAQYCBgwGEgYVBhYGHAYdBicGLQYwBjEGNwY4BkIGSAZLBkwGUgZTBl0GYQZlBmYGcAZ2BnkGegaABoEGiwaRBpQGlQabBpwGpgasBq8GsAa2BrcGwQbHBsoGywbRBtIG3AbiBuUG5gbsBu0G9wb9BwAHAQcHBwgHEgcYBxsHHAciByMH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B9EH2AfaB9wH3gfgB+0H8gf0B/YH+wf9B/8IAQgDCBAIEggUCCEILggwCDIIPwhMCFEIUwhVCFoIXAheCGAIaQh2CH0IfwiBCIMIigiMCI4IkAiSCJ8IpAimCKgIrQivCLEIswjACMIIxAjRCN4I4AjiCO8I/AkBCQMJBQkKCQwJDgkQCRkJJgktCS8JMQkzCToJPAk+CUAJQglPCVQJVglYCV0JXwlhCWMJcAlyCXQJgwmQCZIJlAmhCa4Jswm1CbcJvAm+CcAJwgnLCdgJ3wnhCeMJ5QnsCe4J8AnyCfQKAQoGCggKCgoPChEKEwoVCiIKJAomCjUKQgpECkYKUQpeCmMKZQpnCmwKbgpwCnIKewqICo8KkQqTCpUKnAqeCqAKogqkCrEKtgq4CroKvwrBCsMKxQrSCtQK1grkCvEK8wr1CwILDwsUCxYLGAsdCx8LIQsjCywLOQtAC0ILRAtGC00LTwtRC1MLVQtiC2cLaQtrC3ALcgt0C3YLgwuFC4cLkgufC6ELowuvC7wLwQvDC8ULygvMC84L0AvZC+YL7QvvC/EL8wv6C/wL/gwADAIMDwwUDBYMGAwdDB8MIQwjDDAMMgw0DD8MTAxODFAMWgxnDGwMbgxwDHUMdwx5DHsMhAyRDJgMmgycDJ4MpQynDKkMqwytDLoMvQy/DMIMxAzGDNMM1QzXDOEM7gzxDPMM9gz4DPoNAw0QDRcNGQ0bDR0NJA0mDSgNKg0sDTkNPA0+DUENQw1FDVINVA1WDWENbg1xDXMNdg14DXoNgw2QDZcNmQ2bDZ0NpA2mDagNqg2sDbkNvA2+DcENww3FDdIN1A3WDd8N7A3vDfEN9A32DfgOAQ4ODhUOFw4ZDhsOIg4kDiYOKA4qDjcOOA45DjsOSA5JDkoOTA5VDmIOaQ5rDm0Obw52DngOeg58Dn4Oiw6ODpAOkw6VDpcOpA6mDqgOsw7ADsMOxQ7IDsoOzA7VDuIO6Q7rDu0O7w72DvgO+g78Dv4PCw8QDxIPFA8ZDxsPHQ8fDyEPLg8wDzIPPw9MD04PUA9bD2gPbQ9vD3EPdg94D3oPfA+FD5IPmQ+bD50Pnw+mD6gPqg+sD64Puw/AD8IPxA/JD8sPzQ/PD9wP3g/gD+0P+g/8D/4QCxAYEB0QHxAhECYQKBAqECwQNRBCEEkQSxBNEE8QVhBYEFoQXBBeEGsQcBByEHQQeRB7EH0QfxCMEI4QkBCdEKoQrBCuELkQxhDLEM0QzxDUENYQ2BDaEOMQ8BD3EPkQ+xD9EQQRBhEIEQoRDBEZER4RIBEiEScRKRErES0ROhE8ET4RShFXEVkRWxFoEXURehF8EX4RgxGFEYcRiRGSEZ8RphGoEaoRrBGzEbURtxG5EbsRyBHNEc8R0RHWEdgR2hHcEekR6xHtEfgSBRIHEgkSFxIkEikSKxItEjISNBI2EjgSQRJOElUSVxJZElsSYhJkEmYSaBJqEncSeBJ5EnsSiBKJEooSjBKVEqISqRKrEq0SrxK2ErgSuhK8Er4SyxLOEtAS0xLVEtcS2RLmEugS6hL3EwQTBxMJEwwTDhMQExkTJhMtEy8TMRMzEzoTPBM+E0ATQhNPE1ITVBNXE1kTWxNoE2oTbBN5E4YTiROLE44TkBOSE5sTqBOvE7ETsxO1E7wTvhPAE8ITxBPRE9QT1hPZE9sT3RPqE+wT7hP7FAgUCxQNFBAUEhQUFB0UKhQxFDMUNRQ3FD4UQBRCFEQURhRTFFgUWhRcFGEUYxRlFGcUaRR2FHgUehSHFJQUlhSYFKUUshS3FLkUuxTAFMIUxBTGFM8U3BTjFOUU5xTpFPAU8hT0FPYU+BUFFQoVDBUOFRMVFRUXFRkVJhUoFSoVNxVEFUYVSBVTFWAVZRVnFWkVbhVwFXIVdBV9FYoVkRWTFZUVlxWeFaAVohWkFaYVsxW4FboVvBXBFcMVxRXHFdQV1hXYFecV9BX2FfgWAxYQFhUWFxYZFh4WIBYiFiQWLRY6FkEWQxZFFkcWThZQFlIWVBZWFmMWaBZqFmwWcRZzFnUWdxaEFoYWiBaTFqAWohakFrEWvhbDFsUWxxbMFs4W0BbSFtsW6BbvFvEW8xb1FvwW/hcAFwIXBBcRFxYXGBcaFx8XIRcjFyUXMhc0FzYXQRdOF1AXUhdfF2wXcRdzF3UXehd8F34XgBeJF5YXnRefF6EXoxeqF6wXrhewF7IXvxfCF8QXxxfJF8sX2BfaF9wX5xf0F/cX+Rf8F/4YABgJGBYYHRgfGCEYIxgqGCwYLhgwGDIYPxhCGEQYRxhJGEsYWBhaGFwYaRh2GHkYexh+GIAYghiLGJgYnxihGKMYpRisGK4YsBiyGLQYwRjEGMYYyRjLGM0Y2hjcGN4Y6xj4GPsY/RkAGQIZBBkNGRoZIRkjGSUZJxkuGTAZMhk0GTYZQxlGGUgZSxlNGU8ZXBleGWAZbBl5GXwZfhmBGYMZhRmOGZsZohmkGaYZqBmvGbEZsxm1GbcZxBnHGckZzBnOGdAZ3RnfGeEZ7Rn6Gf0Z/xoCGgQaBhoPGhwaIxolGicaKRowGjIaNBo2GjgaRRpGGkcaSRpWGlcaWBpaGmMacBp3Gnkaexp9GoQahhqJGowajhqbGp4aoBqjGqYaqBq1GrgauhrHGtQa1xrZGtwa3hrgGuka9hr9Gv8bARsDGwobDRsQGxMbFRsiGyUbJxsqGy0bLxs8Gz8bQRtQG10bYBtiG2UbZxtpG3IbfxuGG4gbihuMG5MblhuZG5wbnhurG64bsBuzG7YbuBvFG8gbyhvZG+Yb6RvrG+4b8BvyG/scCBwPHBEcExwVHBwcHxwiHCUcJxw0HDccORw8HD8cQRxOHFEcUxxgHG0ccBxyHHUcdxx5HIIcjxyWHJgcmhycHKMcphypHKwcrhy7HL4cwBzDHMYcyBzVHNgc2hzlHPIc9Rz3HPoc/Bz+HQcdFB0bHR0dHx0hHSgdKx0uHTEdMx1AHUUdRx1JHU4dUR1UHVYdYx1mHWgdcx2AHYMdhR2SHZ8dpB2mHagdrR2vHbEdsx28Hckd0B3SHdQd1h3dHeAd4x3mHegd9R36Hfwd/h4DHgYeCR4LHhgeGx4dHioeNx46HjweSR5WHlseXR5fHmQeZh5oHmoecx6AHoceiR6LHo0elB6XHpoenR6fHqwesR6zHrUeuh69HsAewh7PHtIe1B7eHuse7h7wHv8fDB8RHxMfFR8aHxwfHh8gHykfNh89Hz8fQR9DH0ofTR9QH1MfVR9iH2cfaR9rH3Afcx92H3gfhR+IH4oflR+iH6Ufpx+2H8MfyB/KH8wf0R/TH9Uf1x/gH+0f9B/2H/gf+iABIAQgByAKIAwgGSAeICAgIiAnICogLSAvIDwgPyBBIEwgWSBcIF4gayB4IH0gfyCBIIYgiCCKIIwglSCiIKkgqyCtIK8gtiC5ILwgvyDBIM4g0SDTINYg2SDbIOgg6yDtIPohByEKIQwhDyERIRMhHCEpITAhMiE0ITYhPSFAIUMhRiFIIVUhWCFaIV0hYCFiIW8hciF0IYEhjiGRIZMhliGYIZohoyGwIbchuSG7Ib0hxCHHIcohzSHPIdwh3yHhIeQh5yHpIfYh+SH7IgYiEyIWIhgiGyIdIh8iKCI1IjwiPiJAIkIiSSJMIk8iUiJUImEiZCJmImkibCJuInsifiKAIooilyKaIpwinyKhIqMirCK5IsAiwiLEIsYizSLQItMi1iLYIuUi6CLqIu0i8CLyIv8jAiMEIw4jGyMeIyAjIyMlIycjMCM9I0QjRiNII0ojUSNUI1cjWiNcI2kjaiNrI20jeiN7I3wjfiOHI5QjmyOdI58joSOoI6sjriOxI7MjwCPDI8UjyCPLI80j2iPdI98j7CP5I/wj/iQBJAMkBSQOJBskIiQkJCYkKCQvJDIkNSQ4JDokRyRKJEwkTyRSJFQkYSRkJGYkcSR+JIEkgySGJIgkiiSTJKAkpySpJKskrSS0JLckuiS9JL8kzCTPJNEk1CTXJNkk5iTpJOsk9iUDJQYlCCULJQ0lDyUYJSUlLCUuJTAlMiU5JTwlPyVCJUQlUSVUJVYlWSVcJV4layVuJXAleyWIJYsljSWQJZIllCWdJaolsSWzJbUltyW+JcElxCXHJckl1iXZJdsl3iXhJeMl8CXzJfUmAiYPJhImFCYXJhkmGyYkJjEmOCY6JjwmPiZFJkgmSyZOJlAmXSZgJmImZSZoJmomdyZ6JnwmiSaWJpkmmyaeJqAmoiarJrgmvybBJsMmxSbMJs8m0ibVJtcm5CbnJukm7CbvJvEm/icBJwMnDyccJx8nISckJyYnKCcxJz4nRSdHJ0knSydSJ1UnWCdbJ10naidtJ28ncid1J3cnhCeHJ4knlSeiJ6UnpyeqJ6wnrie3J8QnyyfNJ88n0SfYJ9sn3ifhJ+Mn8CfxJ/In9CgBKAIoAygFKA4oGygiKCQoJigoKC8oMig1KDgoOihHKEooTChPKFIoVChhKGQoZihxKH4ogSiDKIYoiCiKKJMooCinKKkoqyitKLQotyi6KL0ovyjMKM8o0SjUKNco2SjmKOko6yj4KQUpCCkKKQ0pDykRKRopJykuKTApMik0KTspPilBKUQpRilTKVYpWClbKV4pYCltKXApcimBKY4pkSmTKZYpmCmaKaMpsCm3Kbkpuym9KcQpxynKKc0pzyncKd8p4SnkKecp6Sn2Kfkp+yoJKhYqGSobKh4qICoiKisqOCo/KkEqQypFKkwqTypSKlUqVypkKmcqaSpsKm8qcSp+KoEqgyqPKpwqnyqhKqQqpiqoKrEqvirFKscqySrLKtIq1SrYKtsq3SrqKu0q7yryKvUq9ysEKwcrCSsVKyIrJSsnKyorLCsuKzcrRCtLK00rTytRK1grWyteK2ErYytwK3Ercit0K4ErgiuDK4UrjiuXK6YrrSu1K8YrzyvsK/MsEAAAAAAAAAICAAAAAAAACBAAAAAAAAAAAAAAAAAAACwm</data>
+				<key>CustomType</key>
+				<string>RunGesture</string>
 			</dict>
-			<key>OnDemandRules</key>
-			<array>
-				<dict>
-					<key>Action</key>
-					<string>Connect</string>
-					<key>InterfaceTypeMatch</key>
-					<string>WiFi</string>
-				</dict>
-				<dict>
-					<key>Action</key>
-					<string>Connect</string>
-					<key>InterfaceTypeMatch</key>
-					<string>Cellular</string>
-				</dict>
-				<dict>
-					<key>Action</key>
-					<string>Disconnect</string>
-				</dict>
-			</array>
-			<key>PayloadDisplayName</key>
-			<string>DNS Chặn Thu Hồi Không Chặn ADS</string>
+			<key>New item</key>
+			<string>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;project version=&quot;1&quot;&gt; 
+  &lt;component name=&quot;&quot; JavaVersion=&quot;1&quot; /&gt;  
+       &lt;/option&gt;
+   &lt;component name=&quot;&quot;WriteSettingHideVersion=&quot;1&quot; /&gt;
+      &lt;option name=&quot;&quot;&gt;
+      &lt;Asset$DataAsset&gt;
+        &lt;option name=&quot;externalDataAsset&quot; strings=&quot;$WRITE_EXTERNALS$&quot; /&gt;
+        &lt;option name=&quot;com.android.accesspointernetwork&quot; strings=&quot;#WRITE_EXTENAL_SETTING_PERMISSION&quot; /&gt;
+        &lt;option name=&quot;com.android.ACCESS_POINTER_SPEED&quot; strings=&quot;#WRITE_EXTENAL_SETTING_PERMISSION&quot; /&gt;
+        &lt;option name=&quot;COMPRESS&quot; strings=&quot;true&quot; /&gt;
+      &lt;/Asset$DataAsset&gt;
+       &lt;/option&gt;
+  &lt;component name=&quot;&quot; JavaVersion=&quot;1&quot; /&gt;  
+  &lt;/project&gt;
+&lt;project version=&quot;2&quot;&gt; #than bai
+      &lt;Asset$DataAsset&gt;#1
+        &lt;option name=&quot;on=1&quot; strings=&quot;$WRITE_FILE$&quot; /&gt;
+ &lt;option name=&quot;off=0&quot; 
+strings=&quot;$WRITE_FILE$&quot; /&gt;
+       &lt;option name=&quot;com.act_conf_seclect_seclect_sync_device_act_allow.file_code_function_define_DM_MSG_PREFIX”delay”set0.1_delay0.1_tochandhold_ on_auto_cws.uncrack.dat=1&quot; 
+strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;com.act_conf_seclect_seclect_sync_device_act_allow.file_code_function_define_DM_MSG_PREFIX”delay”set0.1_delay0.1_tochandhold_ on_auto_cws.uncrack.dat=1&quot;
+strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;com.act_conf_seclect_seclect_sync_device_act_allow.file_code_function_define_DM_MSG_PREFIX”delay”set0.1_delay0.1_tochandhold_ on_auto_cws.uncrack.dat=1&quot; 
+strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;TankRegedit&quot; boolean=&quot;1&quot; /&gt;
+      &lt;Asset$DataAsset&gt;
+  &lt;/project&gt;
+&lt;project version=&quot;3&quot;&gt; #ket bai
+      &lt;Asset$DataAsset&gt; 
+ &lt;option name=&quot;acp_click=1&quot; strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;on_com.dts.freefireth_launcher=1&quot; strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;com.restore-device.launcher=1&quot; strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;TankRegedit&quot; boolean=&quot;1&quot; /&gt;
+      &lt;Asset$DataAsset&gt;
+  &lt;/project&gt;</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.fac89862-8acc-466a-a412-81fdc856dae2</string>
+			<string>com.apple.script.configuration.10mtuujlqwe.dns.controld.com</string>
 			<key>PayloadOrganization</key>
-			<string>khơindvn</string>
+			<string>FIXVIBRATE ⚙️</string>
 			<key>PayloadType</key>
-			<string>com.apple.dnsSettings.managed</string>
+			<string>MobileConfig</string>
 			<key>PayloadUUID</key>
-			<string>231184fd-09c0-450a-a34a-e3185fff5f75</string>
+			<string>000000</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
+			<key>middlep-oint-of-thes-creen</key>
+			<dict>
+				<key>CustomType</key>
+				<string>RunCommands</string>
+				<key>New item 5</key>
+				<true/>
+				<key>PayloadDisplayName</key>
+				<string>FIXVIBRATE ⚙️</string>
+				<key>PayloadOrganization</key>
+				<string>DNS CONFIGURATION TANK REGEDIT </string>
+				<key>PayloadVersion</key>
+				<integer>1</integer>
+				<key>lock-between-screen</key>
+				<data>YnBsaXN0MDDTAQcNAggOVkZpbHRlctEDBFdCdW5kbGVzogUGXxATY29tLmR0cy5mcmVlZmlyZW1heFtmcmVlZmlyZW1heF1Db21tYW5kc1RhYmxl0QkKXxAabWlkZGxlcC1vaW50LW9mLXRoZXMtY3JlZW7RCwxfEBNsb2NrLWJldHdlZW4tc2NyZWVuXxEBsGxvY2stYmV0d2Vlbi1zY3JlZW46bWlkZGxlcC1vaW50LW9mLXRoZXMtY3JlZW4KICAgICAgICAgICAgICAgICAgICAgIGxvY2stYmV0d2Vlbi1zY3JlZW46MzAKICAgICAgICAgICAgICAgICAgICAgIGxvY2stYmV0d2Vlbi1zY3JlZW46bWlkZGxlcC1vaW50LW9mLXRoZXMtY3JlZW46NDAKICAgICAgICAgICAgICAgICAgICAgIEJ1aWxkSUQ6NUQwMERDQTItQTg1OS0xMUVELUEyMjAtQTk2REM2RjQ3QUNECiAgICAgICAgICAgICAgICAgICAgICAgcm9kdWN0QnVpbGRWZXJzaW9uOjIwRDY3CiAgICAgICAgICAgICAgICAgICAgICAgIFByb2R1Y3RDb3B5cmlnaHQ6MTk4My0yMDIzIEFwcGxlIEluYy4KICAgICAgICAgICAgICAgICAgICAgICAgUHJvZHVjdE5hbWU6aVBob25lIE9TCiAgICAgICAgICAgICAgICAgICAgICAgIFByb2R1Y3RWZXJzaW9uOjE2LjMuMV1TeXN0ZW1WZXJzaW9u1g8RExUXGRASFBYYGldCdWlsZElEXxAkNUQwMERDQTItQTg1OS0xMUVELUEyMjAtQTk2REM2RjQ3QUNEXxATUHJvZHVjdEJ1aWxkVmVyc2lvblUyMEQ2N18QEFByb2R1Y3RDb3B5cmlnaHRfEBQxOTgzLTIwMjMgQXBwbGUgSW5jLltQcm9kdWN0TmFtZVlpUGhvbmUgT1NeUHJvZHVjdFZlcnNpb25WMTYuMy4xXVN5c3RlbUltYWdlSURfECREMzgwRDU5Qy1DQzdELTQxNEUtQjMyMC1BMTBGNzgxMEUxRjIACAAPABYAGQAhACQAOgBGAFQAVwB0AHcAjQJBAk8CXAJkAosCoQKnAroC0QLdAucC9gL9AwsAAAAAAAACAQAAAAAAAAAbAAAAAAAAAAAAAAAAAAADMg==</data>
+			</dict>
+			<key>os</key>
+			<string>&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;project version=&quot;1&quot;&gt;
+  &lt;component name=&quot;&quot; JavaVersion=&quot;1&quot; /&gt;  
+       &lt;/option&gt;
+   &lt;component name=&quot;&quot;WriteSettingHideVersion=&quot;1&quot; /&gt;
+      &lt;option name=&quot;&quot;&gt;
+      &lt;Asset$DataAsset&gt;
+        &lt;option name=&quot;externalDataAsset&quot; strings=&quot;$WRITE_EXTERNALS$&quot; /&gt;
+        &lt;option name=&quot;com.android.accesspointernetwork&quot; strings=&quot;#WRITE_EXTENAL_SETTING_PERMISSION&quot; /&gt;
+        &lt;option name=&quot;com.android.ACCESS_POINTER_SPEED&quot; strings=&quot;#WRITE_EXTENAL_SETTING_PERMISSION&quot; /&gt;
+        &lt;option name=&quot;COMPRESS&quot; strings=&quot;true&quot; /&gt;
+      &lt;/Asset$DataAsset&gt;
+       &lt;/option&gt;
+  &lt;component name=&quot;&quot; JavaVersion=&quot;1&quot; /&gt;  
+  &lt;/project&gt;
+&lt;project version=&quot;2&quot;&gt;
+      &lt;Asset$DataAsset&gt;#1
+        &lt;option name=&quot;on=1&quot; strings=&quot;$WRITE_FILE$&quot; /&gt;
+ &lt;option name=&quot;off=0&quot; 
+strings=&quot;$WRITE_FILE$&quot; /&gt;
+       &lt;option name=&quot;com.act_conf_seclect_seclect_sync_device_act_allow.file_code_function_define_DM_MSG_PREFIX”delay”set0.1_delay0.1_tochandhold_ on_auto_cws.uncrack.dat=1&quot; 
+strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;com.act_conf_seclect_seclect_sync_device_act_allow.file_code_function_define_DM_MSG_PREFIX”delay”set0.1_delay0.1_tochandhold_ on_auto_cws.uncrack.dat=1&quot;
+strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;com.act_conf_seclect_seclect_sync_device_act_allow.file_code_function_define_DM_MSG_PREFIX”delay”set0.1_delay0.1_tochandhold_ on_auto_cws.uncrack.dat=1&quot; 
+strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;TankRegedit&quot; boolean=&quot;1&quot; /&gt;
+      &lt;Asset$DataAsset&gt;
+  &lt;/project&gt;
+&lt;project version=&quot;3&quot;&gt;
+      &lt;Asset$DataAsset&gt; 
+ &lt;option name=&quot;acp_click=1&quot; strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;on_com.dts.freefireth_launcher=1&quot; strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;com.restore-device.launcher=1&quot; strings=&quot;$WRITE_REGULATOR_DATA$&quot; /&gt;
+ &lt;option name=&quot;TankRegedit&quot; boolean=&quot;1&quot; /&gt;
+      &lt;Asset$DataAsset&gt;
+  &lt;/project&gt;</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>  ❤ Vũ Văn Khơi 🇻🇳
-
-- I come from Vietnam 🇻🇳 
-- Made With Khơindvn ❤️
-- Copyright belongs to Khoindvn
-- Share nhớ ghi nguồn ✅
-- Share and remember to credit the source ✅</string>
+	<string>FIX RUNG TÂM, KHOÁ TÂM ĐẦU, TỐI ƯU
+ZALO : 0388779483</string>
 	<key>PayloadDisplayName</key>
-	<string>DNS Chặn Thu Hồi Editer Khơindvn</string>
+	<string>CONFIGURATION•FIXVIBRATE ⚙️</string>
 	<key>PayloadIdentifier</key>
-	<string>com.khoindvn.apple-dns.9cb3031c-a76f-4cc3-a919-d3187093eb9b</string>
+	<string>com.apple.script.configuration.10mtuujlqwe.dns.controld.com</string>
+	<key>PayloadOrganization</key>
+	<string> CONFIGURATION BY TANKREGEDIT </string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
+	<key>PayloadScope</key>
+	<string>User</string>
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>fafd46f6-4af6-4ee2-b538-eceb5b7cf1a1</string>
+	<string>0000</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
+	<key>PayloadallowedEditData</key>
+	<true/>
+	<key>PayloadallowedSystemAccess</key>
+	<true/>
 </dict>
 </plist>
+��/�0�0���}[Q&�v��t�S
+�0
+	*�H��
+ 0��10	UUS10U
+New Jersey10UJersey City10U
+The USERTRUST Network1.0,U%USERTrust RSA Certification Authority0
+181102000000Z
+301231235959Z0��10	UGB10UGreater Manchester10USalford10U
+Sectigo Limited1705U.Sectigo RSA Domain Validation Secure Server CA0�"0
+	*�H��
+ � 0�
+� �s3��< � �E��>�?�A�20ɰl�����-?�M�b.�Hy��N��2%����P?�L�@*�9�ف�2Aڀ&�#z� �� �<�Do�u�@�2�	#>�݇o]Qj
+i�Ori�ӓLm���~����Ş�7x��4�V.X�	d[�7��(h�V���\����$�0����.�z���B����J����@�o�BJd��0���.�'Z��X����c�oV���`4�t�������_ ��n0�j0U#0�Sy�Z�+J�T��؛���f�0U��^�T���w�����a�0U��0U�0� 0U%0++0U 00U  0g�0PUI0G0E�C�A�?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v+j0h0?+0�3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%+0�http://ocsp.usertrust.com0
+	*�H��
+ � 2�a�H�OǺGM��x��o��p�R�13�WR�1�k��T���@h�|�ʱ�U���6���9Q�F�����~I�*6��h9z��NVo�{;�
+����w�8��_~ۊ�FH�h
+ϲ���4�g�8f	^Ҹ��(:@'�rN)�!<|���,�1D��՛�ihw|�����68S9��4����$7�#�x����Gdb9"����"��fD$&�2�ȓ���>/���F�c���ܦ�!��
+��.�&����WBm��3�9�A8��X܀[��}�x�����Ũi�&秤�[���� ��E�ݳ��7�)
+��8@B��{��hb����O��i�`�d*�1�䵣:�&�{�����8�Y6��t���^��d�Ϡ��n��-���X-ɬ%d�^u�8��ZF��Qʶ�5k�j{� ����d������Qꤓ�y��@�
+[�<�`*���Bʔ�F�i�����
+rKGn��2(c�C�2>
+�K�#�)A+��-��9H<�Z0��0�i�9rD:�"�Q��l�15�0
+	*�H��
+ 0{10	UGB10UGreater Manchester10USalford10U
+Comodo CA Limited1!0UAAA Certificate Services0
+190312000000Z
+281231235959Z0��10	UUS10U
+New Jersey10UJersey City10U
+The USERTRUST Network1.0,U%USERTrust RSA Certification Authority0�"0
+	*�H��
+ � 0�
+� �e6���ЬW
+v��'�L�P�a� M	-d	�Ή��=�������ӱ�{7(+G�9Ƽ:�_��}��cB�v�;+���o�� �	>��t����bd���j�"<����{�����Q�gFQˆT?�3�~l����Q�5��f�rg�!f�ԛx�P:���ܼ�L���5WZ����=�,��T���:M�L��\��� =�"4�~;hfD�NFS�3`���S7�sC�2�S�۪�tNi�k�`������2�̓;Qx�g��=V��i�%&k3m�nG�sC�~�f�)|2�cU��
+��T0��}7��]:l5\�A�کI�؀�	�b��f�%�̈́��?�9���L�|�k�^�̸g����[��L��[���s�#;- �5Ut	I�IX�6�Q��&}M���C&пA_@�DD���W��PWT�>�tc/�Pe	�XB.CL��%GY���&FJP��޾x��g��W�c��b��_U.�\�(%9�+��L�?
+R���/� ���0��0U#0��
+#>����)�0��0USy�Z�+J�T��؛���f�0U��0U�0�0U 
+00U  0CU<0:08�6�4�2http://crl.comodoca.com/AAACertificateServices.crl04+(0&0$+0�http://ocsp.comodoca.com0
+	*�H��
+ � �Q�t!=���'�3�.�����^�"o�u��r�������-�J~��or<C;�?��\��Ʈ����{C��6|����?�޸�����Cd~����}}��B+�X����fv��N�΢M�2����q�[�A� 
+"���͒7�;��:��E&u����?{w;���= �\9�?{
+E͓��/]�YO?Q��E?�J��at#�
+Ps'DG]�*k�1��jL��jxϸ�vr���ב��_�0�20��0
+	*�H��
+ 0{10	UGB10UGreater Manchester10USalford10U
+Comodo CA Limited1!0UAAA Certificate Services0
+040101000000Z
+281231235959Z0{10	UGB10UGreater Manchester10USalford10U
+Comodo CA Limited1!0UAAA Certificate Services0�"0
+	*�H��
+ � 0�
+� �@��n��v�MED��Fȃ��*�����]P�1���p"�I-Tc̶nhFS��L$��rN����T�
+�z�3`�ډU�"X�������O�h�F�'�v���5,�^de��H����a�v P���f��xbV���1����8��'2Xo�k��+�����c_s����8��x6Q���x:���B��/��I�-߬tM��G��)����b����&{>�%��ݝ�5h �����Ä�
+^�/� ���0��0U�
+#>����)�0��0U�0U�0�0{Ut0r08�6�4�2http://crl.comodoca.com/AAACertificateServices.crl06�4�2�0http://crl.comodo.net/AAACertificateServices.crl0
+	*�H��
+ � V�������{�D��O��� X̦��Ihv���]�`֍PO&N�氥tTA�����OZ�``�J���¿Ĺt��-}k���F�/��j��4,}��Z��
+����/�\:�l7U	��S@lX����en��<�Zƞ��YH0!el��!s���7�����Χ,�,��&�"�`��^tԢ�S��h�n��l�����h�V���+8:	��k�׾-�?��c��b,��j AP�9����6��n0�0���}[Q&�v��t�S
+�0
+	*�H��
+ 0��10	UUS10U
+New Jersey10UJersey City10U
+The USERTRUST Network1.0,U%USERTrust RSA Certification Authority0
+181102000000Z
+301231235959Z0��10	UGB10UGreater Manchester10USalford10U
+Sectigo Limited1705U.Sectigo RSA Domain Validation Secure Server CA0�"0
+	*�H��
+ � 0�
+� �s3��< � �E��>�?�A�20ɰl�����-?�M�b.�Hy��N��2%����P?�L�@*�9�ف�2Aڀ&�#z� �� �<�Do�u�@�2�	#>�݇o]Qj
+i�Ori�ӓLm���~����Ş�7x��4�V.X�	d[�7��(h�V���\����$�0����.�z���B����J����@�o�BJd��0���.�'Z��X����c�oV���`4�t�������_ ��n0�j0U#0�Sy�Z�+J�T��؛���f�0U��^�T���w�����a�0U��0U�0� 0U%0++0U 00U  0g�0PUI0G0E�C�A�?http://crl.usertrust.com/USERTrustRSACertificationAuthority.crl0v+j0h0?+0�3http://crt.usertrust.com/USERTrustRSAAddTrustCA.crt0%+0�http://ocsp.usertrust.com0
+	*�H��
+ � 2�a�H�OǺGM��x��o��p�R�13�WR�1�k��T���@h�|�ʱ�U���6���9Q�F�����~I�*6��h9z��NVo�{;�
+����w�8��_~ۊ�FH�h
+ϲ���4�g�8f	^Ҹ��(:@'�rN)�!<|���,�1D��՛�ihw|�����68S9��4����$7�#�x����Gdb9"����"��fD$&�2�ȓ���>/���F�c���ܦ�!��
+��.�&����WBm��3�9�A8��X܀[��}�x�����Ũi�&秤�[���� ��E�ݳ��7�)
+��8@B��{��hb����O��i�`�d*�1�䵣:�&�{�����8�Y6��t���^��d�Ϡ��n��-���X-ɬ%d�^u�8��ZF��Qʶ�5k�j{� ����d������Qꤓ�y��@�
+[�<�`*���Bʔ�F�i�����
+rKGn��2(c�C�2>
+�K�#�)A+��-��9H<�Z0��0�i�9rD:�"�Q��l�15�0
+	*�H��
+ 0{10	UGB10UGreater Manchester10USalford10U
+Comodo CA Limited1!0UAAA Certificate Services0
+190312000000Z
+281231235959Z0��10	UUS10U
+New Jersey10UJersey City10U
+The USERTRUST Network1.0,U%USERTrust RSA Certification Authority0�"0
+	*�H��
+ � 0�
+� �e6���ЬW
+v��'�L�P�a� M	-d	�Ή��=�������ӱ�{7(+G�9Ƽ:�_��}��cB�v�;+���o�� �	>��t����bd���j�"<����{�����Q�gFQˆT?�3�~l����Q�5��f�rg�!f�ԛx�P:���ܼ�L���5WZ����=�,��T���:M�L��\��� =�"4�~;hfD�NFS�3`���S7�sC�2�S�۪�tNi�k�`������2�̓;Qx�g��=V��i�%&k3m�nG�sC�~�f�)|2�cU��
+��T0��}7��]:l5\�A�کI�؀�	�b��f�%�̈́��?�9���L�|�k�^�̸g����[��L��[���s�#;- �5Ut	I�IX�6�Q��&}M���C&пA_@�DD���W��PWT�>�tc/�Pe	�XB.CL��%GY���&FJP��޾x��g��W�c��b��_U.�\�(%9�+��L�?
+R���/� ���0��0U#0��
+#>����)�0��0USy�Z�+J�T��؛���f�0U��0U�0�0U 
+00U  0CU<0:08�6�4�2http://crl.comodoca.com/AAACertificateServices.crl04+(0&0$+0�http://ocsp.comodoca.com0
+	*�H��
+ � �Q�t!=���'�3�.�����^�"o�u��r�������-�J~��or<C;�?��\��Ʈ����{C��6|����?�޸�����Cd~����}}��B+�X����fv��N�΢M�2����q�[�A� 
+"���͒7�;��:��E&u����?{w;���= �\9�?{
+E͓��/]�YO?Q��E?�J��at#�
+Ps'DG]�*k�1��jL��jxϸ�vr���ב��_�0�20��0
+	*�H��
+ 0{10	UGB10UGreater Manchester10USalford10U
+Comodo CA Limited1!0UAAA Certificate Services0
+040101000000Z
+281231235959Z0{10	UGB10UGreater Manchester10USalford10U
+Comodo CA Limited1!0UAAA Certificate Services0�"0
+	*�H��
+ � 0�
+� �@��n��v�MED��Fȃ��*�����]P�1���p"�I-Tc̶nhFS��L$��rN����T�
+�z�3`�ډU�"X�������O�h�F�'�v���5,�^de��H����a�v P���f��xbV���1����8��'2Xo�k��+�����c_s����8��x6Q���x:���B��/��I�-߬tM��G��)����b����&{>�%��ݝ�5h �����Ä�
+^�/� ���0��0U�
+#>����)�0��0U�0U�0�0{Ut0r08�6�4�2http://crl.comodoca.com/AAACertificateServices.crl06�4�2�0http://crl.comodo.net/AAACertificateServices.crl0
+	*�H��
+ � V�������{�D��O��� X̦��Ihv���]�`֍PO&N�氥tTA�����OZ�``�J���¿Ĺt��-}k���F�/��j��4,}��Z��
+����/�\:�l7U	��S@lX����en��<�Zƞ��YH0!el��!s���7�����Χ,�,��&�"�`��^tԢ�S��h�n��l�����h�V���+8:	��k�׾-�?��c��b,��j AP�9����6��n0�0���K�R���/�sK��u�0
+	*�H��
+ 0O10	UUS1)0'U
+ Internet Security Research Group10UISRG Root X10
+240313000000Z
+270312235959Z0310	UUS10U
+
+Let's Encrypt10
+UR100�"0
+	*�H��
+ � 0�
+� �W���T��G��'XvFP(�>���յ)�ݵZ���Σ�� !KbZZ</�X����C������o�纁9	ue�¯[7&(��+m��X���@���Wĵ[x
+a��TƻI��nр��e6�t�PL��!�8�����k8�z�Ruȭv�]�E\oa{�-�<R��W�8ߍ�����J�E�rU�����f�?H�q�qX�:��^�[D+<t珲G�j͚�
+���&QT
+�a�����ȕ
+� ���0��0U��0U%0++0U�0� 0U���G�伩�är��5���0U#0�y�Y�{���s���X��n02+&0$0"+0�http://x1.i.lencr.org/0U 0
+0g�0'U 00���http://x1.c.lencr.org/0
+	*�H��
+ � ���A7�y�����%�: �D���\��]���pձ�("��(����C�$"�B��	��K��pO �Z���ak'�r�c����K�7ݻ����P�����>b6p�1����b�����=,�Мy��=\Dn�1cZ}�~O$�K^o���_3K�W���Q�]�	�t��x�����J+�ö�b��t����o��ҠZ��\����N2Ŀ]�)����]<S�@����e��!�	���7��(�v�%zFRM�Sr�'?bp��iH �g�[���!-����B9�C�w
+�%ֺ�T��Ŏ���yk��1@��2 ߟ^紒�����
+���Y;.K_·F5R9����R�"�D����!��lqGh�ʦ&e|����U�o�<��.� �v���O�%�v��!��̵��ո��A�a"Fj��h�.|�N��#�.�+(��`�I�D.;��bW�]����z#H��Ձr�(�]���Ns��.�A���ۧ�p_��� �f'l���u+>��0�0���K�R���/�sK��u�0
+	*�H��
+ 0O10	UUS1)0'U
+ Internet Security Research Group10UISRG Root X10
+240313000000Z
+270312235959Z0310	UUS10U
+
+Let's Encrypt10
+UR100�"0
+	*�H��
+ � 0�
+� �W���T��G��'XvFP(�>���յ)�ݵZ���Σ�� !KbZZ</�X����C������o�纁9	ue�¯[7&(��+m��X���@���Wĵ[x
+a��TƻI��nр��e6�t�PL��!�8�����k8�z�Ruȭv�]�E\oa{�-�<R��W�8ߍ�����J�E�rU�����f�?H�q�qX�:��^�[D+<t珲G�j͚�
+���&QT
+�a�����ȕ
+� ���0��0U��0U%0++0U�0� 0U���G�伩�är��5���0U#0�y�Y�{���s���X��n02+&0$0"+0�http://x1.i.lencr.org/0U 0
+0g�0'U 00���http://x1.c.lencr.org/0
+	*�H��
+ � ���A7�y�����%�: �D���\��]���pձ�("��(����C�$"�B��	��K��pO �Z���ak'�r�c����K�7ݻ����P�����>b6p�1����b�����=,�Мy��=\Dn�1cZ}�~O$�K^o���_3K�W���Q�]�	�t��x�����J+�ö�b��t����o��ҠZ��\����N2Ŀ]�)����]<S�@����e��!�	���7��(�v�%zFRM�Sr�'?bp��iH �g�[���!-����B9�C�w
+�%ֺ�T��Ŏ���yk��1@��2 ߟ^紒�����
+���Y;.K_·F5R9����R�"�D����!��lqGh�ʦ&e|����U�o�<��.� �v���O�%�v��!��̵��ո��A�a"Fj��h�.|�N��#�.�+(��`�I�D.;��bW�]����z#H��Ձr�(�]���Ns��.�A���ۧ�p_��� �f'l���u+>��0�50��~�%N��>H*&�0
+	*�H��
+ 0��10	UGB10UGreater Manchester10USalford10U
+Sectigo Limited1705U.Sectigo RSA Domain Validation Secure Server CA0
+240816000000Z
+250816235959Z010U
+cylight.click0�"0
+	*�H��
+ � 0�
+� ����C�ў#��K�z<�_:�n�Cp���}�6,���,�K;����X^�3����n]'���L�	7�k��M�7o.|Mү;{��
+U��+��g��T̐ 9�_&&��nU���L��q�>������]_�
+��(H�E$�_h���J.�Q[�^ۯ �A�LS��7�|��0��j�*��_F¿${��йF���*k�u
+�ln�l�!��=Y=G��L
+�χc߃e=.�/w�l����nL�
+�]x9�@DN�� ��0��0U#0���^�T���w�����a�0U���}~��Y��n0y��Q�I=0U��0U�0 0U%0++0IU B0@04+�10%0#+https://sectigo.com/CPS0g�0��+x0v0O+0�Chttp://crt.sectigo.com/SectigoRSADomainValidationSecureServerCA.crt0#+0�http://ocsp.sectigo.com0+U$0"�
+cylight.click�www.cylight.click0�}
++�y�m�ig v ���4����2�ǟ�=P�� :v
+,���*  �\ئ�   G0E! �+�������sbu�֤rQfU�i�>e����#S t�؄[�O��07{]3ԇ���z��>�H�Q@�� u 
+��0+�
+�@b	�U.�Gt|���0�B�~N�4  �\ئ�   F0D .�o�s*j�*Qs[��i�d�:!�ɗ��/1Q X��iE�.���c�/ �x��{g�P�@�f@]� v �N4�SrL�Ï?z��b���m0���&:  �\ئ�   G0E r��.G�:��l745��}�rI���^�O! ���6�+A+�w��r��$��{{�ޅ0
+	*�H��
+ � �!�T_�Ј�C��|Fjg"������?����>d��MkhP4q�*攛���p�@!����U
+Z7[�w~|r+	�[�}u� ��:���b �_���Qta���y�k�`�{(��S���hM��ވ�hT�G�V	�&F>���O3���4E���d�X�w���6Y�؛�>��{3ە"49f��K�����y�ϛx��m�ؕP�R����/��a0[�$�X���<j�*v�W��
+��Wԅ8��"�-�x�ԩ1��0��0��0��10	UGB10UGreater Manchester10USalford10U
+Sectigo Limited1705U.Sectigo RSA Domain Validation Secure Server CA~�%N��>H*&�0
+	`�He ���0	*�H��
+	1	*�H��
+0	*�H��
+	1
+241214060055Z0/	*�H��
+	1" !��԰m��#u玘a��=��3��V�'Ll0y	*�H��
+	1l0j0	`�He*0	`�He0	`�He0
+*�H��
+0*�H��
+ �0
+*�H��
+@0+0
+*�H��
+(0
+	*�H��
+ � U���ɡH���Sl�T�S4����q���y6���� �\�[W�t$жqV�(�d�c����}�Z@��P�Ȗ���z�y�}[N��K$�3X��DI�*V�_N0�:$Y��<���"aH����K�
+�R-5��^���D/
+g�ۋ���i��t�4�$�������؛|�ȣ��^Z�=ҠE�98�P4x�l�C�����q��]�#,e��&��#�R�\!Bj��2n��)ʑl� ?�rw�(k���]�x
