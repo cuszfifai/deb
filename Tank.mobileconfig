@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PayloadContent</key>
+	<array>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iphone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>TANKREGEDIT</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/fpsexp.inject.ipsx64</string>
+				<key>ServerUser</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>&lt;build:name"com.act_conf_seclect_getsgin_feebase86_ 357663100967839_ delay0.1_settime4.0_ begincertificate_tochandhold_ on_auto_cws="70-100".list=boolenâtrue&gt;</string>
+					<string>build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_getsign_357663100967839 function_apnRevork_Exactly_callback_feebase86_ delay0.1_on_settime0.4_touchandhold_ auto_cws="70-100"_SHA256withRSA_ AuthenticationMethod.list=boolenâtrue&gt;
+F1:TouchandHold</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_acp_allow.file_code_ connectInject_boostextreme_setting-app_com.dts.freefireth_on_ auto_cws=â70-100â_on.so=true&gt;</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".list=âtrue&gt;
+F2:TouchAndHold</string>
+					<string>&lt;build:name"com.accept_devices_conf_seclect_sync_setting"100"Key_act_allow.file_code_unlock_connectInject_function_Regedit_Mouse_Devices_smooth_set=120_ on
+auto_cws="70-100".dat=âtrue&gt;</string>
+					<string>&lt;build:name"com.adt_conf_select_enchance_sync_setting"100"TANKREGEDIT1-SERVER_act_allow.file_code.list_unlock_ffxbase64_target_lock_settime5.0_mode_on.sc=â70-100".list=true&gt;</string>
+					<string>&lt;build:name"com.ptspeed_9_Key_allow.list=7"=true&gt;</string>
+					<string>com.fixrecoil-ffbase64</string>
+					<string>com.lockinix64-ffbasex64</string>
+					<string>com.lockregcl-ffbase64.apn</string>
+					<string>com.av-hhighc.data</string>
+					<string>com.regcl-ffbasex32</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".list=âtrue&gt;
+F2:TouchAndHold</string>
+					<string>NWM5ZDU2YWZiZWQxZjhmMjMxNzk5NWMyZDQ3ODM4NTE=</string>
+					<string>&lt;build:name&gt;.com.setting.auto.120-fpsexp.delay0.5.ips_TANKREGEDIT_SEVER_on_allow.list="true&gt;</string>
+					<string>&lt;build:name&gt;.com.setting.screen-scanning-frequency.auto.120-hzexp.delay0.1.ips_TANKREGEDIT_SEVER_on_allow.list="true&gt;</string>
+				</array>
+				</array>
+			</dict>
+
+			<key>OnDemandRules</key>
+			<array>
+				<dict>
+						<key>PayloadDisplayName</key>
+			<string>AIMLOCK 1.0 âï¸</string>
+			<key>PayloadIdentifier</key>
+			<string>QlpoOTFBWSZTWVQC1rEAAJnfkdYSQAn/5D////B////wBAAgAAAYMAFYxgNVNGaRo0DIeo0aNNGQ
+GTQGEYhoDTQaponqfpNAKNPI1PSeoeT1T0hkZDI9T1DDU/VNHqAlJPU0KehGGgRkybRMRgRoMCYR
+iYiE3DCA/r7AVoiJ2Rbh8B1ERohKSPtWSE8YDxQWQ2mzLiq/Duq5E/ZaTTK4ILKmOyxoIMLAwTA4
+o2AolfqjHkYTIljYkApg0/XvCWzMXoTrkl59yqbVFa8QN94CDlVTQbYSLAyCXIvRLO2kGREEikZ/
+n75tqYhg3AwyB8Vr5VIC3W4KmEULP6F9SiwzxmfH9UQbLqmncc6DSV2QkfY4/b2ndxWzYyKZqXpt
+VHTjBd0L4reTciU/lpUiYo4/NXHXc8k9HpbBolKsjPL+WePRn3Ek8sUn2Q2+TQuEiwhZptgVdbjX
+JBFQioOD4wh/seoiGxi9b8uNsuNxibcHkxrrD3bAO7J1tkQjqEpwQadrMZacrseRjTVzSzG4cjhq
+hIXvxhHThXzxNQmrglSuZdVB4LFvDIkQfmGfgX6Yuru4BBqwvynAfxdyRThQkFQC1rE=</string>
+			<key>PayloadOrganization</key>
+			<string>TANKREGEDIT-DNS</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>000000</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iphone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>TANKREGEDIT</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/fpsexp.inject.ipsx64</string>
+				<key>ServerUser</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>&lt;build:name"com.act_conf_seclect_getsgin_feebase86_ 357663100967839_ delay0.1_settime4.0_ begincertificate_tochandhold_ on_auto_cws="70-100".list=boolenâtrue&gt;</string>
+					<string>build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_getsign_357663100967839 function_apnRevork_Exactly_callback_feebase86_ delay0.1_on_settime0.4_touchandhold_ auto_cws="70-100"_SHA256withRSA_ AuthenticationMethod.list=boolenâtrue&gt;
+F1:TouchandHold</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_acp_allow.file_code_ connectInject_boostextreme_setting-app_com.dts.freefireth_on_ auto_cws=â70-100â_on.so=true&gt;</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".list=âtrue&gt;
+F2:TouchAndHold</string>
+					<string>&lt;build:name"com.accept_devices_conf_seclect_sync_setting"100"Key_act_allow.file_code_unlock_connectInject_function_Regedit_Mouse_Devices_smooth_set=120_ on
+auto_cws="70-100".dat=âtrue&gt;</string>
+					<string>&lt;build:name"com.adt_conf_select_enchance_sync_setting"100"TANKREGEDIT1-SERVER_act_allow.file_code.list_unlock_ffxbase64_target_lock_settime5.0_mode_on.sc=â70-100".list=true&gt;</string>
+					<string>&lt;build:name"com.ptspeed_9_Key_allow.list=7"=true&gt;</string>
+					<string>com.fixrecoil-ffbase64</string>
+					<string>com.lockinix64-ffbasex64</string>
+					<string>com.lockregcl-ffbase64.apn</string>
+					<string>com.av-hhighc.data</string>
+					<string>com.regcl-ffbasex32</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".list=âtrue&gt;
+F2:TouchAndHold</string>
+					<string>NWM5ZDU2YWZiZWQxZjhmMjMxNzk5NWMyZDQ3ODM4NTE=</string>
+					<string>&lt;build:name&gt;.com.setting.auto.120-fpsexp.delay0.5.ips_TANKREGEDIT_SEVER_on_allow.list="true&gt;</string>
+					<string>&lt;build:name&gt;.com.setting.screen-scanning-frequency.auto.120-hzexp.delay0.1.ips_TANKREGEDIT_SEVER_on_allow.list="true&gt;</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>SENSITIVITY âï¸ï¸</string>
+			<key>PayloadIdentifier</key>
+			<string>PGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIx
+MDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFz
+ZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29k
+ZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEw
+MOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93
+X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JB
+Q0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFy
+dCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5m
+cmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09
+dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0
+dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9p
+bmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rp
+b25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKA
+nDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29t
+LmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFO
+VEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVh
+dnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29t
+LmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxp
+c3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5
+bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cu
+ZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5f
+ZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8u
+Y3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5h
+bWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhP
+QU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rf
+b25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1h
+cHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNy
+YWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2Vs
+ZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJf
+YWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxv
+Y2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRo
+X2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1
+aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAi
+S0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9p
+bXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9z
+eXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKA
+nV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2Nv
+bmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0st
+U0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZE
+ZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVl
+ZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1
+ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGlu
+ZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNy
+ZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25f
+Y29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcw
+LTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFs
+bG93X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEkt
+Q1JBQ0stU0VWRVJfYWxsb3cuZmlsZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnlo
+ZWFydCZEZWxheWxvY2tndW5fZnVuY3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0
+cy5mcmVlZmlyZXRoX2F1dG8uY3dzPeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3Ti
+gJ09dHJ1ZT4KPGJ1aWxkOm5hbWUiY29tLmFsbG93X2NvbmZfc2VsZWN0X3N5bmNf
+c2V0dGluZyIxMDAiS0hPQUhPQU5HLUFOVEktQ1JBQ0stU0VWRVJfYWxsb3cuZmls
+ZV9pbmNyZWFzZV9pbXBhY3Rfb25faGVhdnloZWFydCZEZWxheWxvY2tndW5fZnVu
+Y3Rpb25fY29kZV9zeXN0ZW1hcHBfY29tLmR0cy5mcmVlZmlyZXRoX2F1dG8uY3dz
+PeKAnDcwLTEwMOKAnV91bmNyYWNrLmxpc3TigJ09dHJ1ZT4KCjxidWlsZDpuYW1l
+4oCdY29tLm5vdC5kZWxheXRvdWNoYW5kaG9sZF9vbl9zZXR0aW1lNC4wdG91Y2hh
+bmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJlZWZpcmV0aF9hdXRv
+X2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRydWU+CjxidWlsZDpu
+YW1l4oCdY29tLm5vdC5kZWxheXRvdWNoYW5kaG9sZF9vbl9zZXR0aW1lNC4wdG91
+Y2hhbmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJlZWZpcmV0aF9h
+dXRvX2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRydWU+CjxidWls
+ZDpuYW1l4oCdY29tLm5vdC5kZWxheXRvdWNoYW5kaG9sZF9vbl9zZXR0aW1lNC4w
+dG91Y2hhbmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJlZWZpcmV0
+aF9hdXRvX2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRydWU+Cjxi
+dWlsZDpuYW1l4oCdY29tLm5vdC5kZWxheXRvdWNoYW5kaG9sZF9vbl9zZXR0aW1l
+NC4wdG91Y2hhbmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJlZWZp
+cmV0aF9hdXRvX2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRydWU+
+CjxidWlsZDpuYW1l4oCdY29tLm5vdC5kZWxheXRvdWNoYW5kaG9sZF9vbl9zZXR0
+aW1lNC4wdG91Y2hhbmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJl
+ZWZpcmV0aF9hdXRvX2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRy
+dWU+Cgo8YnVpbGQ6bmFtZeKAnWNvbS5hY3QuY29uZl9zZWNsZWN0X3N5bmNfc2V0
+dGluZ+KAnTEwMOKAnUtleV9hY3RfYWxsb3cuZmlsZV9jb2RlX2Fwbl9waW4tdGhl
+LWNlbnRlci10by10aGUtaGVhZC1hcmVhYmFzZTY1X2RlbGF5MC4yX29uX3NldHRp
+bWU0LjB0b3VjaGFuZGhvbGRfYXBwbWFuZ2VyX3N5cm1hcHBfY29tLmR0cy5mcmVl
+ZmlyZXRoX2F1dG9fY3dzPeKAnDcwLTEwMOKAnS51bmNyYWNrLmxpc3Q94oCcdHJ1
+ZT4KPGJ1aWxkOm5hbWXigJ1jb20uYWN0LmNvbmZfc2VjbGVjdF9zeW5jX3NldHRp
+bmfigJ0xMDDigJ1LZXlfYWN0X2FsbG93LmZpbGVfY29kZV9hcG5fcGluLXRoZS1j
+ZW50ZXItdG8tdGhlLWhlYWQtYXJlYWJhc2U2NV9kZWxheTAuMl9vbl9zZXR0aW1l
+NC4wdG91Y2hhbmRob2xkX2FwcG1hbmdlcl9zeXJtYXBwX2NvbS5kdHMuZnJlZWZp
+cmV0aF9hdXRvX2N3cz3igJw3MC0xMDDigJ0udW5jcmFjay5saXN0PeKAnHRydWU+
+Cgo8YnVpbGQ6bmFtZeKAnWNvbS5hY3RfY29uZl9zZWxlY3Rfc3luY19zZXR0aW5n
+4oCdMTAw4oCda2V5X2FjdF9hbGxvdy5maWxlX2NvZGVfY2FsbXhtaW5kYmFzZTY0
+X29uX2F1dG9fY3dzPSI3MC0xMDAiLnVuY3JhY2suZnpzPeKAnHRydWU+CjxidWls
+ZDpuYW1l4oCdY29tLmFjdF9jb25mX3NlbGVjdF9zeW5jX3NldHRpbmfigJ0xMDDi
+gJ1rZXlfYWN0X2FsbG93LmZpbGVfY29kZV9jYWxteG1pbmRiYXNlNjRfb25fYXV0
+b19jd3M9IjcwLTEwMCIudW5jcmFjay5menM94oCcdHJ1ZT4KPGJ1aWxkOm5hbWXi
+gJ1jb20uYWN0X2NvbmZfc2VsZWN0X3N5bmNfc2V0dGluZ+KAnTEwMOKAnWtleV9h
+Y3RfYWxsb3cuZmlsZV9jb2RlX2NhbG14bWluZGJhc2U2NF9vbl9hdXRvX2N3cz0i
+NzAtMTAwIi51bmNyYWNrLmZ6cz3igJx0cnVlPgoKPGJ1aWxkOm5hbWXigJ1jb20u
+cm9uLm1pbmQtYmxvd2luZ19QSFVDX0tIQU5HIF9BTlRJX0NSQUNLX1NFVkVSPeKA
+nDE1MC03MOKAnS5hbGxvdy5maWxlX29uLmFjdD3igJx0cnVlPgo8YnVpbGQ6bmFt
+ZeKAnWNvbS5yb24ubWluZC1ibG93aW5nX1BIVUNfS0hBTkcgX0FOVElfQ1JBQ0tf
+U0VWRVI94oCcMTUwLTcw4oCdLmFsbG93LmZpbGVfb24uYWN0PeKAnHRydWU+Cjxi
+dWlsZDpuYW1l4oCdY29tLnJvbi5taW5kLWJsb3dpbmdfUEhVQ19LSEFORyBfQU5U
+SV9DUkFDS19TRVZFUj3igJwxNTAtNzDigJ0uYWxsb3cuZmlsZV9vbi5hY3Q94oCc
+dHJ1ZT4K</string>
+			<key>PayloadOrganization</key>
+			<string>TANKREGEDIT-DNS</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>888888</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+		<dict>
+			<key>DNSSettings</key>
+			<dict>
+				<key>DNSProtocol</key>
+				<string>HTTPS</string>
+				<key>DomainServer</key>
+				<string>iphone9,2</string>
+				<key>ServerAddresses</key>
+				<array>
+					<string>192.168.1.1</string>
+				</array>
+				<key>ServerName</key>
+				<string>TANKREGEDIT</string>
+				<key>ServerOwner</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>ServerURL</key>
+				<string>https://ultralow.dns.nextdns.io/fpsexp.inject.ipsx64</string>
+				<key>ServerUser</key>
+				<array>
+					<string>89840810008758474486</string>
+				</array>
+				<key>SupplementalMatchDomains</key>
+				<array>
+					<string>&lt;build:name"com.act_conf_seclect_getsgin_feebase86_ 357663100967839_ delay0.1_settime4.0_ begincertificate_tochandhold_ on_auto_cws="70-100".list=boolenâtrue&gt;</string>
+					<string>build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_getsign_357663100967839 function_apnRevork_Exactly_callback_feebase86_ delay0.1_on_settime0.4_touchandhold_ auto_cws="70-100"_SHA256withRSA_ AuthenticationMethod.list=boolenâtrue&gt;
+F1:TouchandHold</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_acp_allow.file_code_ connectInject_boostextreme_setting-app_com.dts.freefireth_on_ auto_cws=â70-100â_on.so=true&gt;</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".list=âtrue&gt;
+F2:TouchAndHold</string>
+					<string>&lt;build:name"com.accept_devices_conf_seclect_sync_setting"100"Key_act_allow.file_code_unlock_connectInject_function_Regedit_Mouse_Devices_smooth_set=120_ on
+auto_cws="70-100".dat=âtrue&gt;</string>
+					<string>&lt;build:name"com.adt_conf_select_enchance_sync_setting"100"TANKREGEDIT1-SERVER_act_allow.file_code.list_unlock_ffxbase64_target_lock_settime5.0_mode_on.sc=â70-100".list=true&gt;</string>
+					<string>&lt;build:name"com.ptspeed_9_Key_allow.list=7"=true&gt;</string>
+					<string>com.fixrecoil-ffbase64</string>
+					<string>com.lockinix64-ffbasex64</string>
+					<string>com.lockregcl-ffbase64.apn</string>
+					<string>com.av-hhighc.data</string>
+					<string>com.regcl-ffbasex32</string>
+					<string>&lt;build:name"com.act_conf_seclect_seclect_sync_device"100"Key_act_allow.file_code_unlock_connectInject_roll_allconf-stp_ffthbasex64_overlock_roothide_settime2.0_ touchandhold_on_ _auto_cws="70-100".list=âtrue&gt;
+F2:TouchAndHold</string>
+					<string>&lt;build:name&gt;.com.setting.auto.120-fpsexp.delay0.5.ips_TANKREGEDIT_SEVER_on_allow.list="true&gt;</string>
+					<string>&lt;build:name&gt;.com.setting.screen-scanning-frequency.auto.120-hzexp.delay0.1.ips_TANKREGEDIT_SEVER_on_allow.list="true&gt;</string>
+					<string>&lt;build:nameâcom.high_jjinas_TANK_REGEDIT_act.on.allow.file=âtrue&gt;</string>
+					<string>com.high_bostyhz_ron_TANK_REGEDIT_act.on.allow.file=âtrue&gt;</string>
+					<string>&lt;build:name"com.analytics_root_TankRegedit-Configuration-Key_auto.cws=100"=true&gt;</string>
+					<string>&lt;build:name"com.accept_devices_TankRegedit-Configuration-Key_auto.setting=100"=true&gt;</string>
+				</array>
+			</dict>
+			<key>PayloadDisplayName</key>
+			<string>CONFIGURATION VERSION 1.5</string>
+			<key>PayloadIdentifier</key>
+			<string>com.apple.dnsSettings.managed.A6C06555-7F82-40CC-9507-2518A95217EA</string>
+			<key>PayloadOrganization</key>
+			<string>CONFIGURATION TANKREGEDIT</string>
+			<key>PayloadType</key>
+			<string>com.apple.dnsSettings.managed</string>
+			<key>PayloadUUID</key>
+			<string>A6C06555-7F82-40CC-9507-2518A95217EA</string>
+			<key>PayloadVersion</key>
+			<integer>1</integer>
+		</dict>
+	</array>
+	<key>PayloadDescription</key>
+	<string>Tá»I Æ¯U, KHOÃ TÃM Äáº¦U, á»N Äá»NH TÃM, FIX RUNG TÃM
+ZALO : 0388779483</string>
+	<key>PayloadDisplayName</key>
+	<string>CONFIGURATION VERSION 1.5 âï¸</string>
+	<key>PayloadIdentifier</key>
+	<string>com.tankregedit.apple-dns</string>
+	<key>PayloadOrganization</key>
+	<string>TankRegeditVN</string>
+	<key>PayloadScope</key>
+	<string>User</string>
+	<key>PayloadType</key>
+	<string>Configuration</string>
+	<key>PayloadUUID</key>
+	<string>2F2B145E-24B5-4AAA-ACA1-623E73361AAE</string>
+	<key>PayloadVersion</key>
+	<integer>1</integer>
+</dict>
+</plist>
