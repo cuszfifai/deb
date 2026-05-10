@@ -54,7 +54,7 @@ kbtbXJfvKIVzenNLzXNpxEV6C0J492w0FLb4
 				<string>https://dns.nextdns.io/ae657c</string>
 			</dict>
 			<key>PayloadDescription</key>
-			<string>Cấu hình DNS TankRegedit</string>
+			<string>DNS TankRegedit</string>
 			<key>PayloadDisplayName</key>
 			<string>Solitude AntibanV4 DNS</string>
 			<key>PayloadIdentifier</key>
